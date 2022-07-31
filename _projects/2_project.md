@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Hello, testis
+description: A web application to explore single-cell atlas
 img: assets/img/3.jpg
 importance: 2
 category: work
