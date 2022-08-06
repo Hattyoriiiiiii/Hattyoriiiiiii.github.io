@@ -19,4 +19,13 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <br>
-## Coming soon ....
+
+Hi, there! 👋
+
+My name is Tatsuya Hattori (服部 竜也 - in Japanese). I am a Master student at Tokyo University of Science in the Maezawa Lab, whose work is centered around studying mamalian spermatogenesis. In the Maezawa Lab, my research is focused on the transcriptional regulatory mechanisms during mouse spermatogenesis by analysis of multi-omics data.
+
+I am interested in gametogenesis, genetics, bioinformatics, data science, and machine learning. Aside from biology, I am interested in 3D print, VR, and labolatory automation using raspberry pi.
+
+If you have questions or would like to work together, feel free to reach out through email!
+
+email: 6422539 ‘at’ ed ‘dot’ tus ‘dot’ ac ‘dot’ jp
