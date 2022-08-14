@@ -29,3 +29,5 @@ I am interested in gametogenesis, genetics, bioinformatics, data science, and ma
 If you have questions or would like to work together, feel free to reach out through email!
 
 email: 6422539 ‘at’ ed ‘dot’ tus ‘dot’ ac ‘dot’ jp
+
+<br>
