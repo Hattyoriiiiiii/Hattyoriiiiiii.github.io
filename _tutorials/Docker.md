@@ -1,8 +1,8 @@
 ---
 layout: page
-title: single-cell RNA-seq
+title: Docker
 author: "[hattyoriiiiiii](hattyoriiiiiii.github.io)"
-description: single-cell RNA-seq workflow
+description: Docker for NGS analysis
 img: /assets/img/dna_green.jpg
 category: ngs
 ---
