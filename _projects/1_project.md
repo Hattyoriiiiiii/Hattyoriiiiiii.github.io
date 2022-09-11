@@ -1,15 +1,17 @@
 ---
 layout: page
-title: germ cell differentiation during mouse spermatogenesis
+title: How germ cell differentiation proceeds ?
 description: a project with a background image
 img: assets/img/projects_01.svg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Mammalian spermatogenesis is a complex and precisely regulated developmental process. 
+
+In recent years, single-cell transcriptome analysis has made it possible to capture the gene expression profiles of cell types in the testis in an unbiased manner, which had been difficult to separate. 
+
+To understand the differentiation process, it is necessary to clarify the cell type-specific gene expression profiles and the regulatory mechanisms of gene expressions. However, it is still unclear the dynamics of the chromatin structure shaping gene expression during mouse spermatogenesis.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -40,7 +42,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Spatiotemporal heterogeneity of gene expression profiles during mouse spermatogenesis.
 </div>
 
 You can also put regular text between your rows of images.
