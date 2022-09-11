@@ -20,9 +20,9 @@ social: false  # includes social icons at the bottom of the page
 
 <br>
 
-Hi, there! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=30&pause=2000&color=42B959&width=435&lines=Hi%2C+there!+👋)](https://git.io/typing-svg)
 
-My name is Tatsuya Hattori (服部 竜也 - in Japanese). I am a Master student at Tokyo University of Science in the Maezawa Lab, whose work is centered around studying mamalian spermatogenesis. In the Maezawa Lab, my research is focused on the transcriptional regulatory mechanisms during mouse spermatogenesis by analysis of multi-omics data.
+My name is Tatsuya Hattori (服部 竜也 - in Japanese). I am a Master's student at Tokyo University of Science in the Maezawa Lab, whose work is centered around studying mamalian spermatogenesis. In the Maezawa Lab, my research is focused on the transcriptional regulatory mechanisms during mouse spermatogenesis by analysis of multi-omics data.
 
 I am interested in gametogenesis, genetics, bioinformatics, data science, and machine learning. Aside from biology, I am interested in 3D print, VR, and labolatory automation using raspberry pi.
 

@@ -108,9 +108,12 @@ nav_order: 5
 						</div>
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 							<h4 class="title font-weight-bold ml-1 ml-md-4">
-                                Research Assistant - Tokyo University of Science
+                                Research Assistant
                             </h4>
 							<ul class="items">
+                                <i>
+                                    Tokyo University of Science
+                                </i>
 								<li>
 									Molecular biological experiment (RNA-seq, ATAC-seq, CUT&Tag, WGS, Mouse maintainance), NGS analysis (RNA-seq, ATAC-seq, CUT&Tag, WGS)
 								</li>
@@ -127,9 +130,12 @@ nav_order: 5
 						</div>
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 							<h4 class="title font-weight-bold ml-1 ml-md-4">
-                                Teaching Assistant - Tokyo University of Science
+                                Teaching Assistant
                             </h4>
 							<ul class="items">
+                                <i>
+                                    Tokyo University of Science
+                                </i>
 								<li>
 									Bioinformatics
 								</li>
@@ -152,6 +158,9 @@ nav_order: 5
                                 Mobile trash can
                             </h4>
 							<ul class="items">
+                                <li>
+                                    <i>Division of University Corporate Relations, University of Tokyo</i>
+                                </li>
 								<li>
 									As a leader, developed a trash can that moves in response to voice.
 								</li>
@@ -175,11 +184,12 @@ nav_order: 5
                             </h4>
 							<ul class="items">
                                 <i>
-                                    Amelieff Corp.
+                                    <b>Amelieff Corp.</b>
                                 </i>
-								<li>
+                                <br/>
+								<i>
 									Linux, Python, R, AWS, Docker, Researching, NGS analysis (RNA-seq, scRNA-seq, ATAC-seq, scATAC-seq, ChIP-seq, CUT&RUN, Re-seq, GWAS, Metagenomics, Long-read sequencer)
-								</li>
+								</i>
 							</ul>
 						</div>
 					</div>
@@ -304,7 +314,7 @@ nav_order: 5
 									<ol>
 										<li>
 											<b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
-                                            </br>
+                                            <br/>
                                             <i>シングルセルゲノミクス研究会2022; August 2022; みやこめっせ 第二展示場 (京都市)</i>
 										</li>
                                         <!-- <li>
