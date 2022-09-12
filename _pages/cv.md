@@ -2,16 +2,16 @@
 layout: page
 title: cv
 permalink: /cv/
-description: Online view of my Curriculum vitae, downloadable PDF available.
+# description: Online view of my Curriculum vitae, downloadable PDF available.
 nav: true
 nav_order: 5
 ---
 
-<div class="row" style="margin-top: -8rem; margin-bottom: 4rem">
+<!-- <div class="row" style="margin-top: -8rem; margin-bottom: 4rem">
 	<a class="ml-auto mr-2" href="/assets/pdf/example_pdf.pdf" target="_blank" style="color: var(--global-text-color) !important;">
 	  <i class="fas fa-file-pdf" style="font-size: 3rem;"></i>
 	</a>
-</div>
+</div> -->
 
 <div class="cv">
 
@@ -114,8 +114,12 @@ nav_order: 5
                                 <i>
                                     Tokyo University of Science
                                 </i>
+                                <br>
 								<li>
-									Molecular biological experiment (RNA-seq, ATAC-seq, CUT&Tag, WGS, Mouse maintainance), NGS analysis (RNA-seq, ATAC-seq, CUT&Tag, WGS)
+									Molecular biological experiment (RNA-seq, ATAC-seq, CUT&Tag, WGS, Mouse maintainance)
+                                </li>
+                                <li>
+                                    NGS analysis (RNA-seq, ATAC-seq, scRNA-seq, scATAC-seq, CUT&Tag, WGS)
 								</li>
 							</ul>
 						</div>
@@ -158,9 +162,9 @@ nav_order: 5
                                 Mobile trash can
                             </h4>
 							<ul class="items">
-                                <li>
-                                    <i>Division of University Corporate Relations, University of Tokyo</i>
-                                </li>
+                                <i>
+                                    Division of University Corporate Relations, University of Tokyo
+                                </i>
 								<li>
 									As a leader, developed a trash can that moves in response to voice.
 								</li>
@@ -184,12 +188,12 @@ nav_order: 5
                             </h4>
 							<ul class="items">
                                 <i>
-                                    <b>Amelieff Corp.</b>
+                                    Amelieff Corp.
                                 </i>
                                 <br/>
-								<i>
+								<li>
 									Linux, Python, R, AWS, Docker, Researching, NGS analysis (RNA-seq, scRNA-seq, ATAC-seq, scATAC-seq, ChIP-seq, CUT&RUN, Re-seq, GWAS, Metagenomics, Long-read sequencer)
-								</i>
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -213,7 +217,7 @@ nav_order: 5
 									Research about single-cell tools.
 								</li>
                                 <li>
-                                    Researching, Jupyter Notebook, Google Colabolatory, NGS, Single-cell genomics
+                                    Jupyter Notebook, Google Colabolatory, NGS, Single-cell genomics
                                 </li>
 							</ul>
 						</div>
@@ -315,19 +319,45 @@ nav_order: 5
 										<li>
 											<b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br/>
-                                            <i>シングルセルゲノミクス研究会2022; August 2022; みやこめっせ 第二展示場 (京都市)</i>
+                                            <i>シングルセルゲノミクス研究会2022; August 30-31 2022; みやこめっせ 第二展示場 (京都市)</i>
 										</li>
+									</ol>
+								</li>
+								<br>
+								<li>
+									<i>
+                                        Poster Presentation (scheduled):
+                                    </i>
+									<ol>
+                                        <li>
+                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
+                                            <br/>
+                                            <i>総合研究院データサイエンス医療研究部門・核酸創薬研究部門　合同シンポジウム; September 2022; 東京理科大学 葛飾キャンパス図書館大ホール</i>
+                                        </li>
                                         <!-- <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
-                                            </br>
-                                            <i>総合研究院データサイエンス医療研究部門・核酸創薬研究部門　合同シンポジウム; September 2022; 東京理科大学 葛飾キャンパス図書館大ホール</i>
+                                            <br/>
+                                            <i>The International Symposium "Totipotency and Germ Cell Development"; November 23-25, 2022; Centennial Hall Kyusyu University School of Medichine, Fukuoka, Japan</i>
                                         </li> -->
+                                        <li>
+                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
+                                            <br>
+                                            <i>第45回日本分子生物学会年会; November 30 - December 2, 2022; 幕張メッセ</i>
+                                        </li>
 									</ol>
-                                    <!-- <i>
-                                        Oral Presentation:
+								</li>
+								<br>
+								<li>
+                                    <i>
+                                        Oral Presentation (scheduled):
                                     </i>
                                     <ol>
-                                    </ol> -->
+                                        <li>
+                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
+                                            <br>
+                                            <i>第45回日本分子生物学会年会 ショートトーク・ワークショップ; November 30 - December 2, 2022; 幕張メッセ</i>
+                                        </li>
+                                    </ol>
 								</li>
 							</ul>
 						</div>
