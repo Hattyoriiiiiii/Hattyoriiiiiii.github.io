@@ -2,7 +2,7 @@
 layout: page
 title: tutorials
 permalink: /tutorials/
-description: RNA-seq、ATAC-seq、ChIP-seq等のNGSデータ解析について紹介してい"き"ます。
+description: RNA-seq、ATAC-seq、ChIP-seq等のNGSデータ解析についての紹介
 nav: true
 nav_order: 4
 # display_categories: [ngs, fun]

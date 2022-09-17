@@ -303,7 +303,7 @@ nav_order: 5
 
 	<div class="card p-3">
 		<h3 class="card-title">
-            <i>Presentations</i>
+            Presentations
         </h3>
 		<div>
 			<ul class="card-text list-group list-group-flush">
@@ -312,9 +312,7 @@ nav_order: 5
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 							<ul class="items">
 								<li>
-									<i>
-                                        Poster Presentation:
-                                    </i>
+                                    Poster Presentation:
 									<ol>
 										<li>
 											<b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
@@ -325,9 +323,7 @@ nav_order: 5
 								</li>
 								<br>
 								<li>
-									<i>
-                                        Poster Presentation (scheduled):
-                                    </i>
+                                    Poster Presentation (scheduled):
 									<ol>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
@@ -348,9 +344,7 @@ nav_order: 5
 								</li>
 								<br>
 								<li>
-                                    <i>
-                                        Oral Presentation (scheduled):
-                                    </i>
+                                    Oral Presentation (scheduled):
                                     <ol>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
