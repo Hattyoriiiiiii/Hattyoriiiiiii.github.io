@@ -70,9 +70,19 @@ categories: 環境構築 Colaboratory
 <br>
 
 <ol>
-    <li value="8">右側にダブルクリックしたPythonファイルが開かれる。</li>
+    <li value="8">
+        右側にダブルクリックしたPythonファイルが開かれる。
+    </li>
     <li>
-        <code>!python3 /content/drive/MyDrive/Bioinfo2/ファイル名.py</code>(<code>!python3</code>の後に半角の空白が1個入る)と打って再生ボタンを押す。上手くいかない場合は、「…」が90度 回転したボタンを押して、「パスをコピー」。「!python3」+「半角の空白1個」そしてペーストする。
+        <code>!python3 /content/drive/MyDrive/Bioinfo2/ファイル名.py</code>(<code>!python3</code>の後に半角の空白が1個入る)と打って再生ボタンを押す。
+        <ul>
+            <li>
+                上手くいかない場合は、「…」が90度 回転したボタンを押して、「パスをコピー」。「!python3」+「半角の空白1個」そしてペーストする。
+            </li>
+            <li>
+                もしくは、<code>cd /content/drive/MyDrive/Bioinfo2</code>をセルの中で実行した後、<code>!python3 ファイル名.py</code>を実行する。
+            </li>
+        </ul>
     </li>
 </ol>
 
