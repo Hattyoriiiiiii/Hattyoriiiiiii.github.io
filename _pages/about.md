@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 My name is Tatsuya Hattori (服部 竜也 - in Japanese). I am a Master's student at Tokyo University of Science in the Maezawa Lab, whose work is centered around studying mamalian spermatogenesis. In the Maezawa Lab, my research is focused on the transcriptional regulatory mechanisms during mouse spermatogenesis by analysis of multi-omics data.
 
-I have recently developed a web application (available only from the campus network) for single-cell chromatin landscape during mouse spermatogenesis. It can be easily accessed from a browser, enabling transcriptome and epigenome-based studies along the differentiation progression timeline without re-analyzing the public data.
+I have recently developed a user-friendly web application (available only from the campus network) for single-cell chromatin landscape during mouse spermatogenesis. It enables researchers to use transcriptome and epigenome-based studies along the differentiation progression timeline without re-analyzing the public data.
 
 I am interested in gametogenesis, genetics, bioinformatics, data science, and machine learning. Aside from biology, I am interested in 3D print, VR, and labolatory automation using raspberry pi.
 
