@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+description: About me (Tatsuya Hattori - 服部竜也)
 permalink: /
 subtitle: Biology | Epigenetics | Bioinformatics
 
