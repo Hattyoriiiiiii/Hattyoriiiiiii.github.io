@@ -319,17 +319,17 @@ nav_order: 5
                                             <br/>
                                             <i>シングルセルゲノミクス研究会2022; August 30-31 2022; みやこめっせ 第二展示場 (京都市)</i>
 										</li>
+                                        <li>
+                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
+                                            <br/>
+                                            <i>総合研究院データサイエンス医療研究部門・核酸創薬研究部門　合同シンポジウム; September 2022; 東京理科大学 葛飾キャンパス図書館大ホール</i>
+                                        </li>
 									</ol>
 								</li>
 								<br>
 								<li>
                                     Poster Presentation (scheduled):
 									<ol>
-                                        <li>
-                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
-                                            <br/>
-                                            <i>総合研究院データサイエンス医療研究部門・核酸創薬研究部門　合同シンポジウム; September 2022; 東京理科大学 葛飾キャンパス図書館大ホール</i>
-                                        </li>
                                         <!-- <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br/>
