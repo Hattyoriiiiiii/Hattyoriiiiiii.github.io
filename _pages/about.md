@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-description: About me (Tatsuya Hattori - 服部竜也)
+description: My name is Tatsuya Hattori (服部 竜也 - in Japanese). I am a Master’s student at Tokyo University of Science in the Maezawa Lab.
 permalink: /
 subtitle: Biology | Epigenetics | Bioinformatics
 
