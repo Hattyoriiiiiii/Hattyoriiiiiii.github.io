@@ -330,11 +330,11 @@ nav_order: 5
 								<li>
                                     Poster Presentation (scheduled):
 									<ol>
-                                        <!-- <li>
+                                        <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br/>
                                             <i>The International Symposium "Totipotency and Germ Cell Development"; November 23-25, 2022; Centennial Hall Kyusyu University School of Medichine, Fukuoka, Japan</i>
-                                        </li> -->
+                                        </li>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br>
