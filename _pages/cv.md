@@ -324,17 +324,17 @@ nav_order: 5
                                             <br/>
                                             <i>総合研究院データサイエンス医療研究部門・核酸創薬研究部門　合同シンポジウム; September 2022; 東京理科大学 葛飾キャンパス図書館大ホール</i>
                                         </li>
+                                        <li>
+                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
+                                            <br/>
+                                            <i>The International Symposium "Totipotency and Germ Cell Development"; November 23-25, 2022; Centennial Hall Kyusyu University School of Medichine, Fukuoka, Japan</i>
+                                        </li>
 									</ol>
 								</li>
 								<br>
 								<li>
                                     Poster Presentation (scheduled):
 									<ol>
-                                        <li>
-                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
-                                            <br/>
-                                            <i>The International Symposium "Totipotency and Germ Cell Development"; November 23-25, 2022; Centennial Hall Kyusyu University School of Medichine, Fukuoka, Japan</i>
-                                        </li>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br>
@@ -350,6 +350,11 @@ nav_order: 5
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br>
                                             <i>第45回日本分子生物学会年会 ショートトーク・ワークショップ; November 30 - December 2, 2022; 幕張メッセ</i>
+                                        </li>
+                                        <li>
+                                            <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. マウス精子形成過程における分化運命決定機構の解明
+                                            <br>
+                                            <i>NGS 発生生物学現場の会 2022; December 7, 2022; 基礎生物学研究所</i>
                                         </li>
                                     </ol>
 								</li>
