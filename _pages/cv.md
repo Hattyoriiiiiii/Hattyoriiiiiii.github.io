@@ -312,7 +312,7 @@ nav_order: 5
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 							<ul class="items">
 								<li>
-                                    Poster Presentation:
+                                    Poster Presentations:
 									<ol>
 										<li>
 											<b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
@@ -333,23 +333,23 @@ nav_order: 5
 								</li>
 								<br>
 								<li>
-                                    Poster Presentation (scheduled):
+                                    Poster Presentations (scheduled):
 									<ol>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br>
-                                            <i>第45回日本分子生物学会年会; November 30 - December 2, 2022; 幕張メッセ</i>
+                                            <i>The 45th Annual Meeting of the Molecular Biology Society of Japan; November 30 - December 2, 2022; Makuhari Messe International Exhibition Hall</i>
                                         </li>
 									</ol>
 								</li>
 								<br>
 								<li>
-                                    Oral Presentation (scheduled):
+                                    Oral Presentations (scheduled):
                                     <ol>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br>
-                                            <i>第45回日本分子生物学会年会 ショートトーク・ワークショップ; November 30 - December 2, 2022; 幕張メッセ</i>
+                                            <i>The 45th Annual Meeting of the Molecular Biology Society of Japan; Workshop, Sciebce Pitch; November 30 - December 2, 2022; Makuhari Messe International Exhibition Hall</i>
                                         </li>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. マウス精子形成過程における分化運命決定機構の解明
