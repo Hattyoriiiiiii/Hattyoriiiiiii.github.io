@@ -329,27 +329,21 @@ nav_order: 5
                                             <br/>
                                             <i>The International Symposium "Totipotency and Germ Cell Development"; November 23-25, 2022; Centennial Hall Kyusyu University School of Medichine, Fukuoka, Japan</i>
                                         </li>
-									</ol>
-								</li>
-								<br>
-								<li>
-                                    Oral Presentations (scheduled):
-                                    <ol>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br>
-                                            <i>The 45th Annual Meeting of the Molecular Biology Society of Japan; Workshop(2AW-15-3), Science Pitch(2SP-21-02); November 30 - December 2, 2022; Makuhari Messe International Exhibition Hall</i>
+                                            <i>The 45th Annual Meeting of the Molecular Biology Society of Japan; 2P-069; November 30 - December 2, 2022; Makuhari Messe International Exhibition Hall</i>
                                         </li>
 									</ol>
 								</li>
 								<br>
 								<li>
-                                    Poster Presentations (scheduled):
-									<ol>
+                                    Oral Presentations:
+                                    <ol>
                                         <li>
                                             <b>Hattori, T.</b>, Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
                                             <br>
-                                            <i>The 45th Annual Meeting of the Molecular Biology Society of Japan; 2P-069; November 30 - December 2, 2022; Makuhari Messe International Exhibition Hall</i>
+                                            <i>The 45th Annual Meeting of the Molecular Biology Society of Japan; Workshop(2AW-15-3), Science Pitch(2SP-21-02); November 30 - December 2, 2022; Makuhari Messe International Exhibition Hall</i>
                                         </li>
 									</ol>
 								</li>
