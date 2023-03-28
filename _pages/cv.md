@@ -140,9 +140,9 @@ nav_order: 5
                                     Tokyo University of Science
                                 </i>
                                 <br>
-								<li>
+								<!-- <li>
 									"研究支援員" - in Japanese
-                                </li>
+                                </li> -->
 								<li>
 									Molecular biological experiment (RNA-seq, ATAC-seq, CUT&Tag, WGS, Mouse maintainance)
                                 </li>
@@ -453,7 +453,7 @@ nav_order: 5
 					<b>Tools</b>
 				</td>
 				<td class="p-0 pl-2 text-left">
-					Docker, Jupyter, Linux, Git & GitHub, Fusion 360, Inkscape, Visual Studio Code
+					Docker, Jupyter, Linux, Git & GitHub, Firebase, Fusion 360, Inkscape, Visual Studio Code
 				</td>
 			</tr>
 			<tr>
@@ -464,6 +464,14 @@ nav_order: 5
 					Python : Pandas, NumPy, Matplotlib, Seaborn, PyTorch, Scikit-learn
                     <br/>
                     R : tidyverse, related to bioinformatics
+				</td>
+			</tr>
+			<tr>
+				<td class="p-0 pr-2 text-right">
+					<b>Others</b>
+				</td>
+				<td class="p-0 pl-2 text-left">
+					Raspberry Pi, 3D printer, Oculus Quest 2, Drones
 				</td>
 			</tr>
 		</table>
