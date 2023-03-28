@@ -99,11 +99,36 @@ nav_order: 5
         </h3>
 		<div>
 			<ul class="card-text list-group list-group-flush">
+                <li class="list-group-item">
+					<div class="row">
+						<div class="col-sm-2 abbr">
+							<abbr class="badge">
+								2023
+							</abbr>
+						</div>
+						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
+							<h4 class="title font-weight-bold ml-1 ml-md-4">
+                                "Picmobi" (Finalists, Recipient of hoge Award and DIPROGY Award)
+                            </h4>
+							<ul class="items">
+                                <i>
+                                    Division of University Corporate Relations, University of Tokyo
+                                </i>
+                                <li>
+                                    The service allows users to simply take a photo of the desired items, and our system coordinates the delivery of the products to a nearby hub.
+                                </li>
+								<li>
+									Developed a Web app, an image recognition system for identifying products, and a location tracking system using Raspberry Pi with GNSS sensor-based technology.
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
 				<li class="list-group-item">
 					<div class="row">
 						<div class="col-sm-2 abbr">
 							<abbr class="badge">
-								2022 - present
+								2022
 							</abbr>
 						</div>
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
@@ -115,6 +140,9 @@ nav_order: 5
                                     Tokyo University of Science
                                 </i>
                                 <br>
+								<li>
+									"研究支援員" - in Japanese
+                                </li>
 								<li>
 									Molecular biological experiment (RNA-seq, ATAC-seq, CUT&Tag, WGS, Mouse maintainance)
                                 </li>
@@ -154,12 +182,12 @@ nav_order: 5
 					<div class="row">
 						<div class="col-sm-2 abbr">
 							<abbr class="badge">
-								Spring 2022
+								2022
 							</abbr>
 						</div>
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 							<h4 class="title font-weight-bold ml-1 ml-md-4">
-                                Mobile trash can
+                                "Mobile trash can"
                             </h4>
 							<ul class="items">
                                 <i>
@@ -219,6 +247,50 @@ nav_order: 5
                                 <li>
                                     Jupyter Notebook, Google Colabolatory, NGS, Single-cell genomics
                                 </li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="list-group-item">
+					<div class="row">
+						<div class="col-sm-2 abbr">
+							<abbr class="badge">
+								2019 - 2020
+							</abbr>
+						</div>
+						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
+							<h4 class="title font-weight-bold ml-1 ml-md-4">
+                                iGEM 2020 (Silver Medal)
+                            </h4>
+							<ul class="items">
+                                <i>
+                                    International Genetically Engineered Machine Competition
+                                </i>
+								<li>
+									Exploring the conversion of nicotine into useful substances using genetic engineering to create a "Nico-friendly" society and prevent ecological damage from cigarette butt litter by adding value to discarded materials.
+								</li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li class="list-group-item">
+					<div class="row">
+						<div class="col-sm-2 abbr">
+							<abbr class="badge">
+								2019
+							</abbr>
+						</div>
+						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
+							<h4 class="title font-weight-bold ml-1 ml-md-4">
+                                iGEM 2019 (Bronze Medal)
+                            </h4>
+							<ul class="items">
+                                <i>
+                                    International Genetically Engineered Machine Competition
+                                </i>
+								<li>
+									Investigating genetic combinations to enhance <i>E. coli</i> 's radiation resistance by studying Deinococcus radiodurans, with the aim of creating radiation-resistant bacteria.
+								</li>
 							</ul>
 						</div>
 					</div>
