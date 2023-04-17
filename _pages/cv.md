@@ -108,7 +108,7 @@ nav_order: 5
 						</div>
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 							<h4 class="title font-weight-bold ml-1 ml-md-4">
-                                "Picmobi" (Finalists, Recipient of DIPROGY Award and TomyK Award)
+                                "Picmobi" (Finalists, Recipient of BIPROGY Award and TomyK Award)
                             </h4>
 							<ul class="items">
                                 <i>
