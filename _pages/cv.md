@@ -453,7 +453,7 @@ nav_order: 5
 					<b>Tools</b>
 				</td>
 				<td class="p-0 pl-2 text-left">
-					Docker, Jupyter, Linux, Git & GitHub, Firebase, Fusion 360, Inkscape, Visual Studio Code
+					Docker, Jupyter, Linux, Git & GitHub, Firebase, Fusion 360, Inkscape, Figma, Canva
 				</td>
 			</tr>
 			<tr>
