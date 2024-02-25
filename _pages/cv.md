@@ -456,11 +456,6 @@ nav_order: 5
                                             <i>NGS EXPO 2023; November 15-16, 2023; Osaka International Convention Center</i>
                                         </li>
                                         <li>
-                                            <u><b>Hattori, T.</b></u>*, Sugiyama, R., Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals stage-specific gene regulatory landscape during mouse spermatogenesis.
-                                            <br>
-                                            <i>生殖ライフスパン若手の会; November 29 - December 1, 2023; Nagoya</i>
-                                        </li>
-                                        <li>
                                             <u><b>Hattori, T.</b></u>*, Sugiyama, R., Watanabe, T., Sasaki, E., Namekawa, S. H., Maezawa, S. Single-cell ATAC-seq reveals the important role of transcription factor SOX4 during mouse spermatogenesis.
                                             <br>
                                             <i>The 46th Annual Meeting of the Molecular Biology Society of Japan; December 6-8, 2023; Kobe International Conference Center, Kobe International Exhibition Hall, Kobe Portopia Hotel</i>
