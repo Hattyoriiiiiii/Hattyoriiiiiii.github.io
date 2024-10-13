@@ -108,12 +108,12 @@ nav_order: 5
 						</div>
 						<div class="col-xs-10 cl-sm-10 col-md mt-2 mt-md-0">
 							<h4 class="title font-weight-bold ml-1 ml-md-4">
-                                Data Scientist (Bioinformatician) at a Pharmaceutical Company
+                                Bioinformatics Researcher
                             </h4>
 							<ul class="items">
-								<!-- <li>
-									Pharmaceutical Company
-								</li> -->
+								<li>
+									Daiichi-Sankyo Co., Ltd.
+								</li>
 							</ul>
 						</div>
 					</div>
